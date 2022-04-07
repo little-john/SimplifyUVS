@@ -14,7 +14,7 @@ namespace SimplifyUVS
 		}
 	}
 
-	public class ExampleDataStruct
+	public struct ExampleDataStruct
 	{
 		public string ID;
 		public int Number;
